@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "pkno/ZGMm7jRxesiZ9ABRy4zIMKuPhXuJNEXa+yOseYjNCOX0nGcGnNg4Y9uRkQEqu77WQh7/RvmwsjWaACT5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MONSTERMC\\Downloads\\Desktop\\EXGuard\\dnlib\\dnlib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net20\\1.0.0\\microsoft.netframework.referenceassemblies.net20.1.0.0.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.0\\microsoft.netframework.referenceassemblies.net45.1.0.0.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

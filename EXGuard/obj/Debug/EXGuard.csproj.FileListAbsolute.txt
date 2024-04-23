@@ -1,0 +1,3 @@
+C:\Users\MONSTERMC\Downloads\Desktop\EXGuard\EXGuard\obj\Debug\EXGuard.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\Desktop\EXGuard\EXGuard\obj\Debug\EXGuard.Properties.Resources.resources
+C:\Users\MONSTERMC\Downloads\Desktop\EXGuard\EXGuard\obj\Debug\EXGuard.csproj.GenerateResource.cache

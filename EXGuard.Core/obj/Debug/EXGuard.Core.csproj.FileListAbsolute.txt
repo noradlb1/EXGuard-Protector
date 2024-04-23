@@ -1,0 +1,7 @@
+C:\Users\MONSTERMC\Downloads\Desktop\EXGuard\EXGuard_Build\EXGuard.Core.dll
+C:\Users\MONSTERMC\Downloads\Desktop\EXGuard\EXGuard_Build\EXGuard.Core.pdb
+C:\Users\MONSTERMC\Downloads\Desktop\EXGuard\EXGuard.Core\obj\Debug\EXGuard.Core.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\Desktop\EXGuard\EXGuard.Core\obj\Debug\EXGuard.Core.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\Desktop\EXGuard\EXGuard.Core\obj\Debug\EXGuard.Core.csproj.CopyComplete
+C:\Users\MONSTERMC\Downloads\Desktop\EXGuard\EXGuard.Core\obj\Debug\EXGuard.Core.dll
+C:\Users\MONSTERMC\Downloads\Desktop\EXGuard\EXGuard.Core\obj\Debug\EXGuard.Core.pdb
